@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=organ
+comment1.target=Menu(Organization)
+comment2.params=
+comment2.target=void\ menua()
+comment3.params=
+comment3.target=void\ menub()
+comment4.params=
+comment4.target=void\ menud()
+numComments=5

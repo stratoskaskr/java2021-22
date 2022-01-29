@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Admin
+comment1.params=
+comment1.target=Admin()
+comment2.params=x\ y
+comment2.target=Admin(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ set_not_Admin()
+comment4.params=
+comment4.target=void\ set_as_Admin()
+comment5.params=
+comment5.target=boolean\ getStatus()
+numComments=6

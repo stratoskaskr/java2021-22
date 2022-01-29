@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RequestDonation
+comment1.params=x\ y
+comment1.target=RequestDonation(Entity,\ double)
+comment2.params=R
+comment2.target=boolean\ isSame(programm.RequestDonation)
+numComments=3

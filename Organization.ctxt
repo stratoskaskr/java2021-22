@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Organization
+comment1.params=n
+comment1.target=Organization(java.lang.String)
+comment2.params=e
+comment2.target=void\ addEntity(Entity)
+comment3.params=e
+comment3.target=void\ removeEntity(Entity)
+comment4.params=
+comment4.target=void\ listEntities()
+comment5.params=
+comment5.target=void\ listMaterials()
+comment6.params=
+comment6.target=void\ listServices()
+comment7.params=
+comment7.target=void\ listBeneficiaries()
+comment8.params=
+comment8.target=void\ listDonators()
+numComments=9

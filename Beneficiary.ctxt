@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Beneficiary
+comment0.text=\r\n\r\n\ @author\ admin\r\n
+comment1.params=
+comment1.target=Beneficiary()
+comment2.params=n\ p
+comment2.target=Beneficiary(java.lang.String,\ java.lang.String)
+comment3.params=n\ p\ np
+comment3.target=Beneficiary(java.lang.String,\ java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ show()
+comment5.params=L
+comment5.target=void\ commit(RequestDonationList)
+numComments=6
